@@ -1,6 +1,10 @@
 # Dummy Social
 
 Dummy Social App
+## Features
+* Authorization with email
+* Read Posts and See Users Profiles for their posts
+Note: This is a first version of app and it's not complete yet so there will be much more features like comments and search users and...
 
 ## Getting Started
 1. Clone the repository: git clone https://github.com/OracleMatrix/dummy_social_app.git
