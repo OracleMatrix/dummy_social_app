@@ -8,8 +8,11 @@ Dummy Social App
 
 ## Screenshots
 ![signup_page.png](signup_page.png)
+
 ![home_page.png](home_page.png)
+
 ![search_page.png](search_page.png)
+
 ![profile_page.png](profile_page.png)
 
 ## Getting Started
