@@ -6,6 +6,12 @@ Dummy Social App
 * Read Posts and See Users Profiles for their posts
 * Note: This is a first version of app and it's not complete yet so there will be much more features like comments and search users and...
 
+## Screenshots
+![signup_page.png](signup_page.png)
+![home_page.png](home_page.png)
+![search_page.png](search_page.png)
+![profile_page.png](profile_page.png)
+
 ## Getting Started
 1. Clone the repository: git clone https://github.com/OracleMatrix/dummy_social_app.git
 2. Open the project in your preferred IDE (e.g. Android Studio, Visual Studio Code)
