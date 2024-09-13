@@ -1,4 +1,4 @@
-# dummy_social_app
+# Dummy Social
 
 Dummy Social App
 
